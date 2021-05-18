@@ -4,4 +4,5 @@
 permalink: /projects/
 layout: home
 title: Various projects I've done
+share: true
 ---
