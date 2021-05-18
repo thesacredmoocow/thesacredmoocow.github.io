@@ -9,8 +9,6 @@ tags: software c++ python
 permalink: /laptop-drivers/
 ---
 
-![Rubiks Cube Solving Bot](/assets/images/keyboard.jpg)
-
 ## Backstory
 I bought a new laptop for university august of last year, and quickly realized that as good as the hardware was, the software **sucked**.
 
@@ -18,6 +16,8 @@ Fortunately, the community support for this laptop was great, including many ope
 
 One tool in particular stood out to me. It was called G14Control. It was a simple python program which combined various CLI apps into a simple tray app. With a single click of a button, 
 I could adjust the maximum power usage of my CPU set the screen's refresh rate lower to save battery. However, I had noticed that this app had not been maintained in months, and took it upon myself to improve on it.
+
+![keyboard](/assets/images/keyboard.jpg)
 
 ## Result
 With the help of various other software developers, I was able to add two major features which I considered essential to the usage of my computer.

@@ -8,10 +8,7 @@ share: true
 tags: projects hardware software python openCV
 permalink: /rubiks-cube/
 ---
-![Rubiks Cube Solving Bot](/assets/images/rubiks-cube-bot.jpg)
 
-The robot in action:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M4_YzAGSS98" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Backstory
 I found an old rubiks cube sitting on a shelf and started playing with it. I could solve it, but it would take me a minute or so.
@@ -22,6 +19,10 @@ All that was left was to put it together and make it work! (I would later come t
 
 The project was simple, then. I wanted to use the components I had on-hand to make a Rubik's Cube solver. If it could solve it faster than me, I would count it a success.
 
+![Rubiks Cube Solving Bot](/assets/images/rubiks-cube-bot.jpg)
+
+The robot in action:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M4_YzAGSS98" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Designing the hardware
 Most of the frame was assembled from the aluminum extrusions which made up the printer. All I had to do was bolt them together and the biggest part (physically, anyways) was done.
