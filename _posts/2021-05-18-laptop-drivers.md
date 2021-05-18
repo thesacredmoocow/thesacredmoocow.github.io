@@ -6,6 +6,7 @@ categories: projects
 author_profile: true
 share: true
 tags: software c++ python
+toc: true
 permalink: /laptop-drivers/
 ---
 

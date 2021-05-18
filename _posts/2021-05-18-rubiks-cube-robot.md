@@ -6,6 +6,7 @@ categories: projects
 author_profile: true
 share: true
 tags: projects hardware software python openCV
+toc: true
 permalink: /rubiks-cube/
 ---
 
