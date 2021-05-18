@@ -15,11 +15,19 @@ excerpt: "I like STEM, and I love to tinker. Whether its a robot, a particular p
 intro: 
   - excerpt: '# Featured Projects'
 feature_row2:
-  - image_path: /assets/images/header.JPG
+  - image_path: /assets/images/rubiks-cube-bot.JPG
     alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
+    title: "OpenCV-based Rubik's Cube Solving Robot"
+    excerpt: "I am slow at solving Rubiks Cubes and decided to make a robot that does it better using electronics I already had."
+    url: "/rubiks-cube/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row3:
+  - image_path: /assets/images/keyboard.JPG
+    alt: "placeholder image 3"
+    title: "Reverse Engineering My Laptop's Drivers"
+    excerpt: "My laptop's factory drivers sucked so I decided to try to improve on them. I wrote some new code using the Windows SDK and C++ that let me play snake on the back of my laptop."
+    url: "/laptop-drivers/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
@@ -27,3 +35,5 @@ feature_row2:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row id="feature_row2" type="left" %}
+
+{% include feature_row id="feature_row3" type="left" %}
