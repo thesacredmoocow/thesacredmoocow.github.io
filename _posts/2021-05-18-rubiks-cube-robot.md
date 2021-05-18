@@ -8,7 +8,7 @@ share: true
 tags: projects hardware software python openCV
 permalink: /rubiks-cube/
 ---
-![Rubiks Cube Solving Bot](/assets/images/rubiks-cube-bot.JPG)
+![Rubiks Cube Solving Bot](/assets/images/rubiks-cube-bot.jpg)
 
 The robot in action:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M4_YzAGSS98" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -30,7 +30,7 @@ Naturally, since there are 6 faces on a cube, the most straightforward way to ro
 The top and bottom motors could spin the top or bottom faces if the cube was locked, or it could spin the entire cube if the cube was not locked. A side motor could lock the cube and also spin that side face.
 
 Here is the bot drawn up in Fusion 360:
-![Rubiks Cube Solving Bot Model](/assets/images/rubiks-bot-model.JPG)
+![Rubiks Cube Solving Bot Model](/assets/images/rubiks-bot-model.jpg)
 The only main printed components were the motor mounts and cube interfaces.
 
 The side motor was mounted to a slider (formerly the x carriage of the 3d printer) which let it slot in and out of the cube.
@@ -46,7 +46,7 @@ The first step was getting the motors to rotate at all. I used the stock 3d prin
 
 Next, I wrote a python script which automated the serial port messages. From there, I used opencv to pull frames from the camera, and get the average color of known positions in each frame.
 Those colors would be converted to the HSV colorspace, then be compared against known colors in a database to determine the color of each square.
-![square colors](/assets/images/cube-colors.JPG)
+![square colors](/assets/images/cube-colors.jpg)
 
 Green was too similar to black, so I took the stickers off, resulting in black being the 6th color.
 

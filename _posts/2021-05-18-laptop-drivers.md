@@ -9,7 +9,7 @@ tags: software c++ python
 permalink: /laptop-drivers/
 ---
 
-![Rubiks Cube Solving Bot](/assets/images/keyboard.JPG)
+![Rubiks Cube Solving Bot](/assets/images/keyboard.jpg)
 
 ## Backstory
 I bought a new laptop for university august of last year, and quickly realized that as good as the hardware was, the software **sucked**.
