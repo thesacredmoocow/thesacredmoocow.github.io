@@ -45,7 +45,6 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/thesacredmoocow"
 
-
 # Build settings
 #theme: minima
 remote_theme: "mmistakes/minimal-mistakes@4.23.0"
