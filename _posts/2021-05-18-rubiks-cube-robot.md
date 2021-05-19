@@ -9,7 +9,10 @@ tags: projects hardware software python openCV
 toc: true
 permalink: /rubiks-cube/
 ---
+## Summary
+I used OpenCV and python to determine the moves needed to solve a rubik's cube, designed a robot capable of executing those moves very quickly, and put it all together with the help of electronics I already had and my 3D printer.
 
+![Rubiks Cube Solving Bot](/assets/images/rubiks-cube-bot.jpg)
 
 ## Backstory
 I found an old rubiks cube sitting on a shelf and started playing with it. I could solve it, but it would take me a minute or so.
@@ -19,8 +22,6 @@ Motors with precise angular control? Check. A control board with the stepper dri
 All that was left was to put it together and make it work! (I would later come to regret that thinking)
 
 The project was simple, then. I wanted to use the components I had on-hand to make a Rubik's Cube solver. If it could solve it faster than me, I would count it a success.
-
-![Rubiks Cube Solving Bot](/assets/images/rubiks-cube-bot.jpg)
 
 The robot in action:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M4_YzAGSS98" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -67,5 +68,5 @@ Unfortunately, shortly after getting the entire system working reliably, the ser
 The video shown above was the most successful run that I had documented, being under 10 seconds and only one rotation away from solving the cube.
 I had completed all that I had set out to do, so I considered the project a success. In the future, maybe I'll revisit the project, and solve a Rubik's cube in under 5 or even 1 second.
 
-For now though, the electronics have been once again recycled into a new project.
+For now though, the electronics have been once again recycled into a [new project](/3d-printer/).
 
