@@ -21,9 +21,9 @@
 include: ["_pages"]
 github: [metadata]
 
-title: Sicheng (Andy) Meng
+title: Andy (Sicheng) Meng
 subtitle: Student, future Mechatronics Engineer, and Programming Enthusiast
-email: your-email@example.com
+email: 5353imfn2003@gmail.com
 
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -33,7 +33,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 author:
-  name: "Sicheng (Andy) Meng"
+  name: "Andy (Sicheng) Meng"
   avatar: "/assets/images/profile.png"
   bio: "Currently attending Lisgar C.I. Studying Mechatronics Engineering at the University of Waterloo starting September 2021." # Note: Markdown is allowed
   location: "Ottawa, Ontario, Canada"
