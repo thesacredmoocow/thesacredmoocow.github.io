@@ -4,7 +4,7 @@ title:  "Reverse Engineering my Laptop's Drivers"
 date:   2021-05-18 13:14:04 -0400
 categories: projects
 author_profile: true
-share: true
+share: false
 tags: software c++ python
 toc: true
 permalink: /laptop-drivers/

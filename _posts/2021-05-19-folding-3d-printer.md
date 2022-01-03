@@ -4,7 +4,7 @@ title:  "Designing and making a folding 3D printer"
 date:   2021-05-19 12:14:04 -0400
 categories: projects
 author_profile: true
-share: true
+share: false
 tags: example
 toc: true
 permalink: /3d-printer/

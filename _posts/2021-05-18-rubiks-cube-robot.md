@@ -4,7 +4,7 @@ title:  "Rubiks Cube Solving Robot"
 date:   2021-05-18 13:14:04 -0400
 categories: projects
 author_profile: true
-share: true
+share: false
 tags: projects hardware software python openCV
 toc: true
 permalink: /rubiks-cube/

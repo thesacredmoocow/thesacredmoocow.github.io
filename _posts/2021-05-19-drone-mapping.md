@@ -4,7 +4,7 @@ title:  "Mapping a drone's location in 3D space using OpenCV"
 date:   2021-05-19 12:14:04 -0400
 categories: projects
 author_profile: true
-share: true
+share: false
 tags: example
 toc: true
 ---

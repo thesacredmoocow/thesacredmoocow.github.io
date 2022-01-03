@@ -3,7 +3,7 @@ layout: single
 title: About This Portfolio
 permalink: /about/
 author_profile: true
-share: true
+share: false
 ---
 
 Throughout the past few years, I've slowly accumulated a variety of projects. This website was built to catalog and share the projects I've undertaken, complete or not. 
